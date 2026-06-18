@@ -19,7 +19,7 @@
       "webhookId": "cb02d52c-075a-4f19-86ec-71917de6196e",
       "credentials": {
         "telegramApi": {
-          "id": "k9v4GBpZaOZ040hR",
+          "id": "YOUR_TELEGRAM_CREDENTIALS_ID",
           "name": "Telegram account 2"
         }
       }
@@ -54,7 +54,7 @@
       "name": "OpenRouter Chat Model",
       "credentials": {
         "openRouterApi": {
-          "id": "IOXhU0nVOqMUeAhw",
+          "id": "YOUR_OPENROUTER_CREDENTIALS_ID",
           "name": "OpenRouter account"
         }
       }
@@ -90,7 +90,7 @@
       "webhookId": "c15c738c-0b91-4954-a184-97d009cd13f3",
       "credentials": {
         "telegramApi": {
-          "id": "k9v4GBpZaOZ040hR",
+          "id": "YOUR_TELEGRAM_CREDENTIALS_ID",
           "name": "Telegram account 2"
         }
       }
@@ -146,7 +146,7 @@
       "webhookId": "cc469f06-2dc2-4763-a00c-481c26a2cbda",
       "credentials": {
         "telegramApi": {
-          "id": "k9v4GBpZaOZ040hR",
+          "id": "YOUR_TELEGRAM_CREDENTIALS_ID",
           "name": "Telegram account 2"
         }
       }
@@ -160,7 +160,7 @@
           "parameters": [
             {
               "name": "authorization",
-              "value": "7b0f84f5860641c092d59e70c3b1ab6c"
+              "value": "YOUR_ASSEMBLYAI_API_KEY"
             },
             {
               "name": "content-type",
@@ -191,7 +191,7 @@
           "parameters": [
             {
               "name": "authorization",
-              "value": "7b0f84f5860641c092d59e70c3b1ab6c"
+              "value": "YOUR_ASSEMBLYAI_API_KEY"
             },
             {
               "name": "content-type",
@@ -227,7 +227,7 @@
           "parameters": [
             {
               "name": "authorization",
-              "value": "7b0f84f5860641c092d59e70c3b1ab6c"
+              "value": "YOUR_ASSEMBLYAI_API_KEY"
             },
             {
               "name": "content-type",
@@ -285,7 +285,7 @@
       "name": "OpenRouter Chat Model1",
       "credentials": {
         "openRouterApi": {
-          "id": "IOXhU0nVOqMUeAhw",
+          "id": "YOUR_OPENROUTER_CREDENTIALS_ID",
           "name": "OpenRouter account"
         }
       }
@@ -321,7 +321,7 @@
       "webhookId": "f95e62d5-69a6-4f62-b6c5-02db3265f49e",
       "credentials": {
         "telegramApi": {
-          "id": "k9v4GBpZaOZ040hR",
+          "id": "YOUR_TELEGRAM_CREDENTIALS_ID",
           "name": "Telegram account 2"
         }
       }
