@@ -409,6 +409,7 @@ Summary:
 * Email assistant
 * CRM integration
 * WhatsApp support
+* MCP-calendar integrations
 
 ---
 
