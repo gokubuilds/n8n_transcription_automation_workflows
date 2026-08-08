@@ -411,7 +411,7 @@ Summary:
 * WhatsApp support
 * MCP-calendar integrations
 
-----
+-----
 
 # Author
 
